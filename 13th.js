@@ -10,3 +10,4 @@ var Count_Consonants= (S) =>
      const consonants = S.match(/[^aeiou]/gi);
       return consonants.length;   
 };
+const num = parseInt('7*6', 10);
